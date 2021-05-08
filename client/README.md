@@ -1,5 +1,4 @@
-# Gym Reservation Web Application
-
+# AOS Inventory Management System
 > MEVN Stack Project
 
 ## Build Setup
